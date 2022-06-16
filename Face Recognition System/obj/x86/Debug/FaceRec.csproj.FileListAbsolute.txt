@@ -1,0 +1,10 @@
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\bin\Debug\Face Recognition System.exe
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\bin\Debug\Face Recognition System.pdb
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\obj\x86\Debug\FaceRec.csproj.AssemblyReference.cache
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\obj\x86\Debug\FaceRec.FrmPrincipal.resources
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\obj\x86\Debug\FaceRec.Properties.Resources.resources
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\obj\x86\Debug\FaceRec.csproj.GenerateResource.cache
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\obj\x86\Debug\FaceRec.csproj.CoreCompileInputs.cache
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\obj\x86\Debug\FaceRec.csproj.CopyComplete
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\obj\x86\Debug\Face Recognition System.exe
+C:\Users\Матвей\Desktop\файлы1\FaceRecProOV\Face Recognition System\obj\x86\Debug\Face Recognition System.pdb

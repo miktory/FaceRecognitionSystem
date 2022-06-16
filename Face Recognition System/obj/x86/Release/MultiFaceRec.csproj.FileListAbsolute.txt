@@ -1,0 +1,5 @@
+C:\Users\Матвей\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.AssemblyReference.cache
+C:\Users\Матвей\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Release\MultiFaceRec.FrmPrincipal.resources
+C:\Users\Матвей\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Release\MultiFaceRec.Properties.Resources.resources
+C:\Users\Матвей\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.GenerateResource.cache
+C:\Users\Матвей\Desktop\FaceRecProOV\FaceRecProOV\obj\x86\Release\MultiFaceRec.csproj.CoreCompileInputs.cache
